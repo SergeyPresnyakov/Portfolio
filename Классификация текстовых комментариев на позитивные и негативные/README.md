@@ -9,4 +9,4 @@
 Необходимо обучить модель классифицировать комментарии на позитивные и негативные.
 
 ## Используемые библиотеки
-*pandas, sklearn, catboost, nltk, torch, tqdm, hyperopt*
+*pandas, sklearn, catboost, nltk, transformers, torch, tqdm, hyperopt*
